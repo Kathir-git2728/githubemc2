@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi test2 is created
+=======
+new test2 is created
+>>>>>>> gitbranch1
